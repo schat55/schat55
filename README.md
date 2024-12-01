@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 A passionate coder with a degree in Electrical Engineering<br>👯 *** *** *** *** <br>🌱 *** *** *** *** <br>💬 Ask me about Electronics, Web Development, IoT and other stuff.<br>
+🔭 An aspiring Software Engineer trying to stay updated. <br>👯 *** *** *** *** <br>🌱 *** *** *** *** <br>💬 Ask me about Electronics, Web Development, IoT and other stuff.<br>
 <hr/>
 
 # 💻 Tech Stack:
