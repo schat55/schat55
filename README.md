@@ -9,6 +9,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=schat55&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=schat55&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# Profile views:
-![GitHub Profile Views](https://visitor-badge.glitch.me/badge?page_id=schat55.schat55)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=schat55)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
